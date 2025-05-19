@@ -1,0 +1,6 @@
+CPT Code,Description,Category
+99213,Office or outpatient visit for the evaluation and management of an established patient (low complexity),Evaluation and Management
+99214,Office or outpatient visit for the evaluation and management of an established patient (moderate complexity),Evaluation and Management
+99215,Office or outpatient visit for the evaluation and management of an established patient (high complexity),Evaluation and Management
+93000,"Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",Cardiovascular Procedures
+71020,"Chest X-ray, two views, frontal and lateral",Radiology
